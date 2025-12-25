@@ -1,7 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
-  color: #040000;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #181818;
 }
 
 .layout_padding {
@@ -57,7 +57,7 @@ body {
   width: 60px;
   height: 7px;
   border-radius: 10px;
-  background-color: #30d5c8;
+  background-color: #bb9900;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -81,11 +81,11 @@ body {
 }
 
 .sub_page.about_page .slider_section {
-  background-color: #f8f8f8;
+  background-color: #ffffff;
 }
 
 .header_section {
-  background-color: #f4f3f3;
+  background-color: #181818;
 }
 
 .header_section .nav_container {
@@ -105,7 +105,7 @@ body {
 
 .custom_nav-container .contact_nav .nav-item .nav-link {
   padding: 0px 25px;
-  color: #000000;
+  color: #ffffff;
   text-align: center;
 }
 
@@ -120,20 +120,20 @@ body {
 
 .custom_nav2 .custom_nav-container {
   padding: 5px 0;
-  background-color: #30d5c8;
+  background-color: #bb9900;
   -webkit-clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
           clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
 }
 
 .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item .nav-link {
   padding: 10px 30px;
-  color: #070101;
+  color: #ffffff;
   text-align: center;
   position: relative;
 }
 
 .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  color: #ffffff;
+  color: #181818;
 }
 
 .custom_nav2 #navbarSupportedContent {
@@ -193,7 +193,7 @@ a:focus {
 .navbar-brand span {
   font-size: 20px;
   font-weight: bold;
-  color: #0c0900;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -238,13 +238,13 @@ a:focus {
 }
 
 .slider_section .detail-box h2 {
-  color: #30d5c8;
+  color: #bb9900;
 }
 
 .slider_section .detail-box h1 {
   font-size: 4rem;
   font-weight: bold;
-  color: #f4f3f3;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -271,27 +271,27 @@ a:focus {
 .slider_section .detail-box .btn-box .btn-1 {
   display: inline-block;
   padding: 7px 0;
-  background-color: #30d5c8;
-  border: 1px solid #30d5c8;
-  color: #ffffff;
+  background-color: #bb9900;
+  border: 1px solid #bb9900;
+  color: #181818;
 }
 
 .slider_section .detail-box .btn-box .btn-1:hover {
   background-color: transparent;
-  color: #30d5c8;
+  color: #bb9900;
 }
 
 .slider_section .detail-box .btn-box .btn-2 {
   display: inline-block;
   padding: 7px 0;
-  background-color: #f4f3f3;
-  border: 1px solid #f4f3f3;
-  color: #020000;
+  background-color: #181818;
+  border: 1px solid #181818;
+  color: #ffffff;
 }
 
 .slider_section .detail-box .btn-box .btn-2:hover {
   background-color: transparent;
-  color: #f4f3f3;
+  color: #181818;
 }
 
 .slider_section .carousel-indicators {
@@ -313,14 +313,14 @@ a:focus {
   height: 14px;
   opacity: 1;
   background-color: transparent;
-  border: 2px solid #30d5c8;
+  border: 2px solid #bb9900;
   border-radius: 100%;
 }
 
 .slider_section .carousel-indicators li.active {
   width: 18px;
   height: 18px;
-  border: 3px solid #30d5c8;
+  border: 3px solid #bb9900;
 }
 
 .slider_section .number_box {
@@ -338,7 +338,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #30d5c8;
+  color: #bb9900;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -347,13 +347,13 @@ a:focus {
   border: none;
   width: 1px;
   height: 200px;
-  background-color: #30d5c8;
+  background-color: #bb9900;
   margin: 2rem 0;
 }
 
 /* end slider section */
 .about_section {
-  background-color: #f8f8f8;
+  background-color: #202020;
 }
 
 .about_section .box {
@@ -383,15 +383,15 @@ a:focus {
 .about_section .box .detail-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #151615;
-  border: 1px solid #151615;
-  color: #ffffff;
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  color: #181818;
   margin-top: 15px;
 }
 
 .about_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #151615;
+  color: #ffffff;
 }
 
 .service_section .service_container {
@@ -474,7 +474,7 @@ a:focus {
   width: 45px;
   height: 45px;
   border-radius: 100%;
-  background-color: #30d5c8;
+  background-color: #bb9900;
 }
 
 .service_section .service_container .box .link_box a img {
@@ -497,7 +497,7 @@ a:focus {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: rgba(230, 86, 3, 0.9);
+  background-color: rgba(0, 136, 113, 0.9);
 }
 
 .service_section .service_container .box:hover .link_box {
@@ -515,7 +515,7 @@ a:focus {
 }
 
 .us_section {
-  background-color: #0e2778;
+  background-color: #580000;
   color: #ffffff;
 }
 
@@ -604,7 +604,7 @@ a:focus {
   width: 40px;
   height: 4px;
   border-radius: 10px;
-  background-color: #30d5c8;
+  background-color: #bb9900;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -619,7 +619,7 @@ a:focus {
 
 .client_section .carousel-indicators li {
   opacity: 1;
-  background-color: #000000;
+  background-color: #ffffff;
   width: 40px;
   height: 10px;
   border-radius: 10px;
@@ -628,12 +628,12 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #30d5c8;
+  background-color: #bb9900;
 }
 
 .result_section {
   color: #ffffff;
-  background-color: #0e2778;
+  background-color: #580000;
 }
 
 .result_section .row {
@@ -665,7 +665,7 @@ a:focus {
   width: 40px;
   height: 7px;
   border-radius: 10px;
-  background-color: #30d5c8;
+  background-color: #bb9900;
 }
 
 .result_section .detail-box p {
@@ -675,15 +675,15 @@ a:focus {
 .result_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #30d5c8;
-  border: 1px solid #30d5c8;
-  color: #ffffff;
+  background-color: #bb9900;
+  border: 1px solid #bb9900;
+  color: #000000;
   margin-top: 25px;
 }
 
 .result_section .detail-box a:hover {
   background-color: transparent;
-  color: #30d5c8;
+  color: #bb9900;
 }
 
 /* contact section */
@@ -715,43 +715,43 @@ a:focus {
 }
 
 .contact_section input::-webkit-input-placeholder {
-  color: #000;
+  color: #181818;
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #000;
+  color: #181818;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #000;
+  color: #181818;
 }
 
 .contact_section input::placeholder {
-  color: #000;
+  color: #181818;
 }
 
 .contact_section input {
   border: none;
   outline: none;
-  border-bottom: 0.8px solid #ac9784;
+  border-bottom: 0.8px solid #181818;
   width: 90%;
   margin: 10px 0;
 }
 
 .contact_section input::-webkit-input-placeholder {
-  color: #ac9784;
+  color: #181818;
 }
 
 .contact_section input:-ms-input-placeholder {
-  color: #ac9784;
+  color: #181818;
 }
 
 .contact_section input::-ms-input-placeholder {
-  color: #ac9784;
+  color: #181818;
 }
 
 .contact_section input::placeholder {
-  color: #ac9784;
+  color: #181818;
 }
 
 .contact_form-container {
@@ -760,7 +760,7 @@ a:focus {
 
 .contact_form-container button {
   border: none;
-  background-color: #fd9e2e;
+  background-color: #580000;
   color: #fff;
   padding: 14px 55px;
   font-size: 14px;
@@ -778,7 +778,7 @@ a:focus {
 /* contact section */
 /* info section */
 .info_section {
-  background-color: #161616;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -808,11 +808,11 @@ a:focus {
 }
 
 .info_section .info_form form input {
-  background-color: #ffffff;
+  background-color: #313131;
   border: none;
   width: calc(100% - 139px);
   outline: none;
-  color: #000000;
+  color: #ffffff;   
   height: 42.4px;
   padding-left: 15px;
 }
@@ -838,19 +838,19 @@ a:focus {
 }
 
 .info_section .info_form form button {
-  background-color: #30d5c8;
+  background-color: #bb9900;
   display: inline-block;
   padding: 9px 30px;
-  background-color: #30d5c8;
-  border: 1px solid #30d5c8;
-  color: #000000;
+  background-color: #bb9900;
+  border: 1px solid #bb9900;
+  color: #ffffff;
   font-size: 15px;
   text-transform: uppercase;
 }
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #30d5c8;
+  color: #bb9900;
 }
 
 .info_section h6 {
@@ -920,7 +920,7 @@ a:focus {
 /* end info section */
 /* footer section*/
 .footer_section {
-  background-color: #161616;
+  background-color: #000000;
   padding: 20px 0;
 }
 
@@ -934,15 +934,15 @@ a:focus {
   color: #ffffff;
 }
 .calculator_section {
-  background-color: #f8f9fa;
+  background-color: #202020;
   padding: 60px 0;
 }
 
 .calculator_container {
-  background: white;
+  background: rgb(37, 37, 37);
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
 }
 
 .calculator_container .form-group {
@@ -951,21 +951,21 @@ a:focus {
 
 .calculator_container label {
   font-weight: 600;
-  color: #333;
+  color: #ffffff;
   margin-bottom: 8px;
   display: block;
 }
 
 .calculator_container .form-control {
   height: 45px;
-  border: 2px solid #ddd;
+  border: 2px solid #bb9900;
   border-radius: 5px;
   padding: 10px 15px;
   transition: all 0.3s;
 }
 
 .calculator_container .form-control:focus {
-  border-color: #fd9e2e;
+  border-color: #580000;
   box-shadow: 0 0 0 0.2rem rgba(255, 77, 77, 0.25);
 }
 
@@ -974,8 +974,8 @@ a:focus {
 }
 
 .calculator_container .btn-primary {
-  background-color: #fd9e2e;
-  border-color: #fd9e2e;
+  background-color: #580000;
+  border-color: #580000;
   padding: 12px 30px;
   font-weight: 600;
   border-radius: 5px;
@@ -983,14 +983,14 @@ a:focus {
 }
 
 .calculator_container .btn-primary:hover {
-  background-color: #0e2778;
+  background-color: #384e97;
   border-color: #0e2778;
   transform: translateY(-2px);
 }
 
 .result_box {
-  background: linear-gradient(135deg, #fd9e2e 0%, #0e2778 100%);
-  color: white;
+  background: linear-gradient(135deg, #661e1e 20%, #0e2778 100%);
+  color: rgb(255, 255, 255);
   padding: 30px;
   border-radius: 10px;
   height: 100%;
@@ -1013,8 +1013,8 @@ a:focus {
 }
 
 .btn-success {
-  background-color: #fd9e2e;
-  border-color: #fd9e2e;
+  background-color: #580000;
+  border-color: #580000;
   padding: 12px 30px;
   font-weight: 600;
   border-radius: 5px;
